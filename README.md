@@ -3,8 +3,8 @@ My React JS development environment. Includes...
 - Editor configuration
 
 And it needs...
-- A development web server
 - Bundling
+- A development web server
 - Transpilation
 - Linting
 - Testing
